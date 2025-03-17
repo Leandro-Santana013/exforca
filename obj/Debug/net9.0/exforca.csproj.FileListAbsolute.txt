@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\exforca\bin\Debug\net9.0\exforca.exe
+C:\Users\ls139\Desktop\listas de lógica\exforca\bin\Debug\net9.0\exforca.deps.json
+C:\Users\ls139\Desktop\listas de lógica\exforca\bin\Debug\net9.0\exforca.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\exforca\bin\Debug\net9.0\exforca.dll
+C:\Users\ls139\Desktop\listas de lógica\exforca\bin\Debug\net9.0\exforca.pdb
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.dll
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\refint\exforca.dll
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.pdb
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\exforca.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\exforca\obj\Debug\net9.0\ref\exforca.dll
