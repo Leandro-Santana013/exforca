@@ -4,6 +4,6 @@ Console.write("digite a palavra secreta");
 palavra = Console.ReadLine;
 
 Console.Write("Adivinhe uma letra: ");
-chute = Console.ReadLine();
+chute = Console.ReadLine().ToLower()  ;
 
-Console.Write((palavra.IndexOf(chute) >= 0) ? $"A letra {chute} está presente na palavra!" : " Errou!");
+Console.WriteLine($"A letra {letra} existe na palavra secreta?  => {palavra.Contains(letra)}");
